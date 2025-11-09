@@ -51,3 +51,18 @@ appstore-scraper/
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
+## 👤 Autor
+
+**Alexis NLH**
+
+- GitHub: [@alexisnlh](https://github.com/alexisnlh)
+
+## 🙏 Agradecimientos
+
+- [Fazt Code](https://www.youtube.com/c/FaztCode) por el tutorial original
+- Comunidad de Django REST Framework
+
+---
+
+⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub
