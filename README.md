@@ -3,6 +3,15 @@
 
 Script desarrollado en Python para ayudar a usuarios de dispositivos **Apple** a buscar las Apps que deseen conocer si son de pago o son gratuitas.
 
+<a id="tabla-de-contenidos"></a>
+## 📋 Tabla de Contenidos
+
+- [Setup](#setup)
+- [Estructura del Archivo](#estructura-del-archivo)
+- [Licencia](#licencia)
+- [Autor](#autor)
+
+<a id="setup"></a>
 ## Setup
 
 1. Clonar el repositorio:
@@ -34,6 +43,9 @@ cp apps_config.example.json apps_config.json
 python scraper_main.py
 ```
 
+**[⬆ back to top](#tabla-de-contenidos)**
+
+<a id="estructura-del-archivo"></a>
 ## Estructura de archivos
 
 ```
@@ -48,10 +60,12 @@ appstore-scraper/
 └── README.md
 ```
 
+<a id="licencia"></a>
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
+<a id="autor"></a>
 ## 👤 Autor
 
 **Alexis NLH**
@@ -61,3 +75,5 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ---
 
 ⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub
+
+**[⬆ back to top](#tabla-de-contenidos)**
